@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kwesiabraham03" target="blank"><img src="https://img.shields.io/twitter/follow/kwesiabraham03?logo=twitter&style=for-the-badge" alt="kwesiabraham03" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJS, C++, SQL**
+- 🌱 I’m currently learning **Javascript, ReactJS, Object-Oriented Programming, Embedded Systems, SQL**
 
 - 💬 Ask me about **HTML,CSS, C++**
 
